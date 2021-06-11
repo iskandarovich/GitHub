@@ -19,13 +19,13 @@
     border-radius: 25px;
 }
 
-.bav2{
+.Container{
     display: flex;
     margin-left: 200px;
     font-size: 25px;    
 }
 
-.n3{
+.c3{
     margin-left: 20px;
     cursor: pointer;
 }
